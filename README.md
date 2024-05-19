@@ -5,6 +5,7 @@
 ##Project Description:
 
 This project is a Single Page Application (SPA) Netflix clone built using React and Firebase. It features comprehensive user authentication using Firebase Authentication, enabling users to sign up, sign in, and choose a Netflix plan. The application utilizes Firebase Firestore as the backend database for storing user account information securely.
+Additionally, it incorporates React form validation to ensure data integrity and enhance user experience.
 
 ##Key Features:
 
