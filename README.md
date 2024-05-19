@@ -11,6 +11,8 @@ Additionally, it incorporates React form validation to ensure data integrity and
 
 User Authentication: Full signup and sign-in functionality with Firebase Authentication.
 
+React Form Validation: React form validation is integrated to ensure data integrity and enrich the user experience.
+
 Netflix Plan Selection: Users can choose their preferred Netflix plan during signup.
 
 Account Management: Users can view and edit their account information, including profile details.
